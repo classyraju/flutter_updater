@@ -4,9 +4,9 @@
         <title>Bill Plus updates</title>
         <item>
             <title>Version 0.2.9</title>
-            <description>testing for update</description>
+            <description>testing for updates</description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/apps/internaltest/4700870890584344935" sparkle:version="0.2.9" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.adol.billplus" sparkle:version="0.2.9" sparkle:os="android" />
         </item>
     </channel>
 </rss>
